@@ -1,0 +1,14 @@
+body{
+    background-image: url("background.jpg");
+}
+
+.overlay{
+    background: rgba(0, 0, 0, 0.1);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.filepond--credits{
+    display: none;
+}
